@@ -1,0 +1,12 @@
+F:\Mayank\ImportDll\ImportDll\ImportDll\bin\Debug\netstandard2.0\ImportDll.deps.json
+F:\Mayank\ImportDll\ImportDll\ImportDll\bin\Debug\netstandard2.0\ImportDll.dll
+F:\Mayank\ImportDll\ImportDll\ImportDll\bin\Debug\netstandard2.0\ImportDll.pdb
+F:\Mayank\ImportDll\ImportDll\ImportDll\obj\Debug\netstandard2.0\ImportDll.csprojAssemblyReference.cache
+F:\Mayank\ImportDll\ImportDll\ImportDll\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Mayank\ImportDll\ImportDll\ImportDll\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Mayank\ImportDll\ImportDll\ImportDll\obj\Debug\netstandard2.0\ImportDll.csproj.CoreCompileInputs.cache
+F:\Mayank\ImportDll\ImportDll\ImportDll\obj\Debug\netstandard2.0\ImportDll.AssemblyInfoInputs.cache
+F:\Mayank\ImportDll\ImportDll\ImportDll\obj\Debug\netstandard2.0\ImportDll.AssemblyInfo.cs
+F:\Mayank\ImportDll\ImportDll\ImportDll\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Mayank\ImportDll\ImportDll\ImportDll\obj\Debug\netstandard2.0\ImportDll.dll
+F:\Mayank\ImportDll\ImportDll\ImportDll\obj\Debug\netstandard2.0\ImportDll.pdb
